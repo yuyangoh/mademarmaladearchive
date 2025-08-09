@@ -88,11 +88,6 @@ main section.active {
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-.work-item-clickable:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-}
-
 /* Detail view styles */
 #item-details {
   display: none;
@@ -113,10 +108,6 @@ main section.active {
   padding: 0.5rem 0;
   color: #555;
   text-decoration: underline;
-}
-
-.back-button:hover {
-  color: #000;
 }
 
 .detail-title {
