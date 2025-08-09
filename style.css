@@ -120,7 +120,7 @@ main section.active {
 }
 
 .detail-title {
-  font-size: 2.5rem;
+  font-size: 3rem;
   font-weight: 650;
   margin-bottom: 2rem;
   line-height: 1.2;
@@ -144,14 +144,14 @@ main section.active {
 }
 
 .detail-description {
-  font-size: 1.1rem;
+  font-size: 1.5rem;
   line-height: 1.6;
   margin-bottom: 1rem;
   color: #333;
 }
 
 .detail-details {
-  font-size: 1rem;
+  font-size: 1.5rem;
   color: #666;
   line-height: 1.5;
 }
@@ -167,14 +167,14 @@ main section.active {
 }
 
 .content-section-title {
-  font-size: 1rem;
+  font-size: 1.5rem;
   font-weight: 700;
   margin-bottom: 1rem;
   color: #333;
 }
 
 .content-section-text {
-  font-size: 1rem;
+  font-size: 1.5rem;
   line-height: 1.6;
   color: #555;
   margin-bottom: 1rem;

@@ -25,7 +25,7 @@ class WorkItem {
 const workItems = [
   new WorkItem(
     "P-Threads: 3D Printing as a Method for Bonding Textiles",
-    "https://ibb.co/xtJBDDNS",
+    "archive images/pthreads-cover.jpg",
     "We reimagined the 3D printer as a machine that bonds textiles and created functional outcomes.",
     "Undergraduate coursework",
     "https://www.youtube.com/embed/6sN0rGHfdy0?si=Ml7lkURhoS8rL_40",
@@ -47,7 +47,7 @@ const workItems = [
   ),
   new WorkItem(
     "row x row",
-    "https://ibb.co/hF5Jkxs0",
+    "archive images/rowxrow-cover.png",
     "We created an interactive installation that invites audiences to create knitting patterns. These patterns are knitted in real-time by the machine operator at the venue.",
     "Ars Electronica 2024",
     null, // No video for this item
@@ -69,7 +69,7 @@ const workItems = [
   ),
   new WorkItem(
     "Music Conductor",
-    "https://ibb.co/prGz9g00",
+    "archive images/music-cover.png",
     "A gesture-based interaction that allows people to conduct music virtually. Created with p5.js and MediaPipe Hands.",
     "Undergraduate coursework",
     "https://www.youtube.com/embed/QexbP1xjGa0?si=NbfYcKBusV7Tgops", // Add your video URL here
@@ -121,19 +121,19 @@ class funItem {
 const funItems = [
   new funItem(
     "Playing with yarn (on-going)",
-    "https://ibb.co/RpwgVTTn",
+    "archive images/yarn-cover.jpg",
     "I am learning how to weave. I sometimes knit and crochet.",
     "Textile"
   ),
   new funItem(
     "Performances",
-    "https://ibb.co/wkWMQ3g",
+    "archive images/performance-cover.jpg",
     "I play double bass in symphony orchestras.",
     "Music"
   ),
   new funItem(
     "Trying to make things",
-    "https://ibb.co/1fc2qqhc",
+    "archive images/trying-cover.jpg",
     "All the things I made when I was a freshman at university.",
     "Industrial design"
   ),
