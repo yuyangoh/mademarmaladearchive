@@ -60,7 +60,7 @@ main section.active {
 }
 
 .item-title {
-  font-size: 1.5rem;
+  font-size: 2rem;
   margin: 0 0 0.5rem;
   font-weight: 650;
 }
@@ -72,13 +72,13 @@ main section.active {
 }
 
 .item-description {
-  font-size: 1rem;
+  font-size: 1.2rem;
   color: #555;
   margin-bottom: 0.5rem;
 }
 
 .item-details {
-  font-size: 1rem;
+  font-size: 1.2rem;
   color: #777;
 }
 
