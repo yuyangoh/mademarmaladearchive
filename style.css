@@ -60,7 +60,7 @@ main section.active {
 }
 
 .item-title {
-  font-size: 2rem;
+  font-size: 1.8rem;
   margin: 0 0 0.5rem;
   font-weight: 650;
 }
@@ -111,7 +111,7 @@ main section.active {
 }
 
 .detail-title {
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-weight: 650;
   margin-bottom: 2rem;
   line-height: 1.2;
